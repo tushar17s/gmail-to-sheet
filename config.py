@@ -1,0 +1,3 @@
+
+SPREADSHEET_ID = "1zNfKjqAYTZCfSTVCDXoXFP5JGdf_IFbKtifueKLpvqw"
+SHEET_NAME = "Gmail Logs"
